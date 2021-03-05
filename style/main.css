@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+.header{
+    background-color: navy;
+    color: white;
+    height: 100px;
+    text-align: center;
+    padding: 2px;
+    margin: 1px;
+}
+
+.data{
+    background-color: whitesmoke;
+    color: navy;
+    padding: 5px;
+}
+
+.postImage{
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+
+.footer{
+    background-color: navy;
+    color: white;
+    height: 50px;
+    text-align:center;
+    padding: 1px;
+}
+
+.postTitle{
+    margin: 0px;
+    padding: 5px;
+}
